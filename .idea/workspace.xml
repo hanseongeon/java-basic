@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f0c9597-d92d-4d23-8330-9d99261e6b60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/ConditionChoose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/OperatorExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/VariableExam1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Variable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Condition.executor": "Debug",
+    "Application.ConditionChoose.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Print.executor": "Run",
     "Application.Variable.executor": "Run",
+    "Application.VariableExam1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

@@ -26,8 +26,10 @@ public class Variable {
         System.out.println(number);
 
         // 자기소개 10번 출력
+        int age = 26;
         String a = "안녕하세요 저는 26살 한성언입니다.";
-        System.out.println(a);
+
+        System.out.printf("안녕하세요 저는 %d살 한성언입니다.\n",age);
         System.out.println(a);
         System.out.println(a);
         System.out.println(a);
@@ -38,7 +40,25 @@ public class Variable {
         System.out.println(a);
         System.out.println(a);
 
+        System.out.println("\n");
 
+        age = 27;
+        a = "안녕하세요 저는 27살 한성언입니다.";
+        System.out.printf("안녕하세요 저는 %d살 한성언입니다.\n",age);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+
+        // 변수 주의사항
+        // 변수명은 중복되지 않도록 지어야 한다.
+        // 변수명은 숫자로 시작하면 안된다.
+        // 변수는 재활용 가능하다.
 
     }
 }
