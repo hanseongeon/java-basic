@@ -26,7 +26,5 @@ public class Operator {
         System.out.println(5 != 5); // false
 
 
-        // 논리연산자
-
     }
 }
